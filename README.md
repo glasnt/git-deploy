@@ -1,6 +1,6 @@
 # `git-deploy`
 
-Learn more: (link pending)
+Learn more: https://cloud.google.com/blog/topics/developers-practitioners/push-your-code-and-see-your-builds-happening-your-terminal-git-deploy
 
 ## Requirements
 
